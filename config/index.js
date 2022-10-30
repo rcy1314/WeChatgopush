@@ -6,10 +6,10 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "wx8d443fb71e956475",
+  APP_ID: "wx8be1f299bf55a1e3",
 
   // 微信公众号的appsecret
-  APP_SECRET: "61b60f0b10ae28186b2128ba6f92286b",
+  APP_SECRET: "8ccbeb2b2e95056edb8bfa2ad70dd3c7",
 
   // 微信公众号的模板ID
   TEMPLATE_ID: "9F0-R_DODFZM7cEe8ck-4FXUMkVc7QsflW9ME8J56t4",
